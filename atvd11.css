@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.ex1{
+    background-color: limegreen;
+}
+
+.ex2{
+    background-color: blue;
+}   
+
+.ex3{
+    background-color: #5000da ;
+}
+
+.ex4{
+    background-color: aquamarine;
+}
+
+.ex5{
+    background-color: rgb(222, 198, 158 );
+}
+
+.desafio{
+    background-image: url(https://a-static.mlcdn.com.br/1500x1500/quadro-decorativo-natureza-paisagem-arvore-campo-com-moldura-rc173-vital-printer/vitalprinter/784ad332ca3411ebba224201ac18500e/01587c6199cb0b641b30df9847677323.jpeg);
+}
